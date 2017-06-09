@@ -1,0 +1,42 @@
+* {
+  box-sizing: content-box;
+}
+
+.card {
+  border: 1px solid #ddd;
+  box-shadow: 4px 4px #ddd;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px 10px;
+  width: 300px;
+}
+
+.overflow {
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.animal-img {
+  width: 300px;
+}
+
+.facts-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.facts-list {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.fact-label {
+  font-weight: bold;
+}
+
+.italic-text {
+  font-style: italic;
+}
